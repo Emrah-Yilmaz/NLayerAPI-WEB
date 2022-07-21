@@ -1,0 +1,17 @@
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\Users\emrah\OneDrive\Belgeler\GitHub\NLayer\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
