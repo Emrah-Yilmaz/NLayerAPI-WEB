@@ -5,7 +5,7 @@ Web Projesi, API'dan verileri çekerek çalışmaktadır.
 <br/>
 Mimari hiyerarşisi aşağıdaki gibidir.
 <br>
-<h1>Core -> Repository -> Service -> WebMVC </h1>
+<h1>Core -> Repository -> Service - >API -> WebMVC </h1>
 <br>
 Mimaride Kullanılan Prensip ve Teknolojiler<br>
 <ul class="list-group list-group-flush">
