@@ -7,7 +7,6 @@ Mimari hiyerarşisi aşağıdaki gibidir.
 <br>
 <h1>Core -> Repository -> Service - >API -> WebMVC </h1>
 <br>
-Mimaride Kullanılan Prensip ve Teknolojiler<br>
 <ul class="list-group list-group-flush">
   <li class="list-group-item">SOLID</li>
   <li class="list-group-item">Katmanlı Mimari</li>
