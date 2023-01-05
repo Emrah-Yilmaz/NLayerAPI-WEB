@@ -1958,11 +1958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Service\\NLayer.Service.csproj",
+      "projectUniqueName": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Service\\NLayer.Service.csproj",
       "projectName": "NLayer.Service",
-      "projectPath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Service\\NLayer.Service.csproj",
+      "projectPath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Service\\NLayer.Service.csproj",
       "packagesPath": "C:\\Users\\emrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Service\\obj\\",
+      "outputPath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1979,8 +1979,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj": {
-              "projectPath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj"
+            "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Repository\\NLayer.Repository.csproj": {
+              "projectPath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Repository\\NLayer.Repository.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6D1G5zTFIiTuJ8cmJc8YipoLTHd3EvOt0G2PoyhUog9ZKpzFi9RZOfpqHPIMEEPYkWwvqqPuMvBUMDKLhJAlKA==",
+  "dgSpecHash": "VrcD7Mla6aShYCPqFwi5f4a7oZ3IMRvbDHSEN17XRBODGecvhY3fbA13Xa3tqFF3rm79h1/xU6/8rKiXT8u9RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj",
+  "projectFilePath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Repository\\NLayer.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrah\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emrah\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

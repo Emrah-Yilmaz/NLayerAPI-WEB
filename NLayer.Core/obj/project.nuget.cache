@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6vmr00uN8uUqUB12nEWH7D7zBj4sMkgEaLG3t+uWd7WqK5vfzfw4Y8qkKaYAr1Hjhr4mjTQQpcyjbd5o2isY1Q==",
+  "dgSpecHash": "+Yh3nSgA5OWWMyz76dERv7Fjbozx/YtEWSs5Op2wAHozI6LBq8VM3zypaGOeo+m3stJdKAk7p3UhCcwqjDDNbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj",
+  "projectFilePath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Core\\NLayer.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

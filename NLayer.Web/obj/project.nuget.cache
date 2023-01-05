@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6cN2XJplC/qNv0PPaw/gVpg0+rXLlIzDptZcPBswkrASe/WmCRjuL2zUJ0RE1KVJ0KpGwbbrFXaylaOWqLhJQ==",
+  "dgSpecHash": "/rzF3673VGQQ7n1oHTBa3kCu14hyy4YWfYBZW/TE0IcmO0fm1lXw96iHS7wRbpVKJsWwg1vGV2CNqOfZni1vBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Web\\NLayer.Web.csproj",
+  "projectFilePath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Web\\NLayer.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrah\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\emrah\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

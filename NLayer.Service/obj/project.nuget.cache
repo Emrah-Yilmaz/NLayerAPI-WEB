@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "21jmWHtMJH+p4nS9B9atvL+HQcGn5PgkmGXSrPBEm1Ahe3f7flfMNthknucdWe41ddm5kt6aPx9cJs2iJP2jlQ==",
+  "dgSpecHash": "dJ4I/wurUDgccUbiosgPY1MCkQtsCgijqdBfaUaiLQI6Hu0ZpvWU4O4tG8OX0Rjrub2a3fjOO5wOfrkTiRIuNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrah\\OneDrive\\Belgeler\\GitHub\\NLayer\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Service\\NLayer.Service.csproj",
+  "projectFilePath": "C:\\Users\\emrah\\Source\\Repos\\NLayerAPI-WEB\\NLayer.Service\\NLayer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrah\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\emrah\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
